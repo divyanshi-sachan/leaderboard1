@@ -1,0 +1,17 @@
+.leaderboard-heading {
+    display: flex;
+    align-items: center;
+    margin-top: 20px; /* Adjust margin as needed */
+  }
+  
+  .leaderboard-title {
+    font-size: 24px;
+    margin-right: 20px;
+  }
+  
+  .leaderboard-divider {
+    flex-grow: 1;
+    height: 2px;
+    background-color: #333; /* Adjust color as needed */
+  }
+  
